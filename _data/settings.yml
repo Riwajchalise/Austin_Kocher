@@ -14,31 +14,34 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Publications'
-      url: '/publication/'
-    - title: 'Protfolio'
-      url: '/protfolio/'
-    - title: 'C.V.'
-      url: '/cv/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'About'
+      url: '/about/'
     - title: 'In The News'
       url: '/in-the-news/'
-    - title: 'More'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: 'https://austinkocher.substack.com/'
-        title: 'substrack'
+    # - title: 'Publications'
+    #   url: '/publication/'
+    # - title: 'Protfolio'
+    #   url: '/protfolio/'
+    # - title: 'C.V.'
+    #   url: '/cv/'
+    # - title: 'Projects'
+    #   url: '/projects/'
+    
+    # - title: 'More'
+    #   submenu:
+    #   - url: '/about/'
+    #     title: 'About'
+    #   - url: '/contact/'
+    #     title: 'Contact'
+    #   - url: 'https://austinkocher.substack.com/'
+    #     title: 'substrack'
         
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
+  author__name: Austin Kocher
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   author__avatar: '/images/01-1.jpg'
 
@@ -57,10 +60,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Political & legal geographer studying the theories, laws, and institutional practices behind immigration controls. Assistant Professor at Syracuse University. Living in Baltimore. 
-  hero__description: >-
-    Dr. Austin Kocher is an Assistant Research Professor in the Newhouse School of Public Communication and a researcher with the Transactional Research Access Clearinghouse (TRAC), a research institute at Syracuse University that uses Freedom of Information Act requests to study the federal government. Key areas of Kocher’s current research at TRAC include mapping and analyzing large federal data sets related to immigration detention, enforcement, and deportation, the immigration court system, and trends within the federal criminal and civil courts.
-    </br></br> Kocher’s research interests focus on the political and legal geographies of racialized policing practices, local immigration enforcement, and the immigration court system. His ongoing work interrogates the legal rationalities and everyday practices of producing “illegalized” immigrants through the US immigration court system, and he uses cartographic, ethnographic, and quantitative methodologies to examine how the immigration courts link up with local immigration enforcement on the ground. His work also examines the strategies and impact of grassroots immigrant rights and worker rights movements that contest deportation as a tool of social and labor control.
-    </br></br> Kocher is currently past president of the Legal Geography Specialty Group of the AAG, Secretary of the Middle States Division of the Association of American Geographers, and is active in the Law and Society Association.
+  hero__description: 
   hero__image: '/images/profile.jpeg'
 
 
@@ -143,16 +143,20 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
     - url: '/about/'
       title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    - url: '/in-the-news/'
+      title: 'In The News'
+
+    # - title: 'Projects'
+    #   url: '/projects/'
+
+    # - url: '/contact/'
+    #   title: 'Contact'
+    # - url: '/elements/'
+    #   title: 'Elements'
 
 
 #-------------------------------

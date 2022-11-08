@@ -11,7 +11,7 @@
 
 .hero__inner {
   display: flex;
-  // align-items: center;
+  align-items: center;
 
   @media only screen and (max-width: $desktop) {
     flex-direction: column;
@@ -84,7 +84,7 @@
 
 .hero__title {
   margin-bottom: 48px;
-  font-size: 36px;
+  font-size: 48px;
   font-weight: 800;
   line-height: 1;
   color: var(--heading-font-color);
