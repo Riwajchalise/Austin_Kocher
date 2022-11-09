@@ -3,7 +3,7 @@ layout: post
 title:  'TRUMP AND IMMIGRATION ENFORCEMENT: THE FIRST 100 DAYS'
 date:   2020-08-10 15:01:35 +0300
 image:  '/images/blog/blog2.jpeg' 
-tags: [ Immigration Politics, Donald Trump, Immigration Enforcement, Blog]
+tags: [ immigration-politics, donald-trump, immigration-enforcement, blog]
 category: 'US Immigration System'
 ---
 Reposted from [Society & Space](https://www.societyandspace.org/forums/trump-and-immigration-enforcement-the-first-100-days).
