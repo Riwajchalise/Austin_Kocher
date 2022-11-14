@@ -1,0 +1,33 @@
+<table id="inthenews" class="table table-striped dt-responsive nowrap" style="width:100%;">
+    <thead>
+        <tr>
+          <th>News Outlet</th>
+            <th>Date</th>
+            <th>Author</th>
+            <th>Title</th>
+            <th>Type</th>
+            <th>Format</th>
+             <th>Quote</th>   
+            <th>Action</th>    
+
+        </tr>
+      
+    </thead>
+    <tbody>
+        {% for post in site.news reversed %}
+        <tr>
+            <td>{{post.outlet}}</td>
+            <td>{{ post.date }}</td>
+            <td>{{ post.author }}</td>
+            <td>{{post.type}}</td>
+            <td>{{post.format}}</td>
+            <td>{{post.title | strip_html | truncate: 80}}</td>
+          <td>{{post.content}}</td>
+          <td><a href="{{post.link}}" target="_blank">Link</a></td>
+
+          
+        </tr>
+       {% endfor %}
+      
+    </tbody>
+</table>

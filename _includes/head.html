@@ -32,7 +32,17 @@
 
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
 
-  <script>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css'>
+<link rel='stylesheet' href='https://cdn.datatables.net/responsive/2.4.0/css/responsive.bootstrap5.min.css'>
+<style>
+  p {
+white-space: normal !important;}
+</style>
+
+  
+</style>
+<script>
     {% if site.data.settings.color_scheme == "auto" %}
     if (localStorage.getItem("theme") === "dark") {
       document.documentElement.setAttribute("dark", "");
