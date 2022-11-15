@@ -191,6 +191,10 @@ table {
   border-color: var(--background-alt-color);
   border-collapse: collapse;
   color: var(--heading-font-color);
+  --bs-table-striped-color: unset !important;
+  color: unset !important;
+
+
 }
 
 table th {

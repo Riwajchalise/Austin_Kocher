@@ -14,3 +14,8 @@ Tuesday, June 13, 5:30 p.m.\
 ACLU of Ohio\
 4506 Chester Avenue\
 Cleveland, OH 44103-3621
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |

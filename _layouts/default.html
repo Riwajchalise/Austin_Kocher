@@ -29,8 +29,14 @@
 <script src='https://cdn.datatables.net/responsive/2.4.0/js/dataTables.responsive.min.js'></script>
 <script src='https://cdn.datatables.net/responsive/2.4.0/js/responsive.bootstrap5.min.js'></script>
       <script id="rendered-js" >
+    if ( window.innerWidth < 700 ) {
+    // document.querySelector("div").classList.add('three');
+    document.querySelector(".table").classList.remove('nowrap');
+    }
+
 $(document).ready(function() {
     $('#inthenews').DataTable();
 } );
+
     </script>
 </html>
