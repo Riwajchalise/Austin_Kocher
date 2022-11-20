@@ -15,7 +15,4 @@ ACLU of Ohio\
 4506 Chester Avenue\
 Cleveland, OH 44103-3621
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
