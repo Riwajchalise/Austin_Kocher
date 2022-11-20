@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "‘REPLACEMENT THEORY’ AND VIOLENCE AT THE CAPITOL"
+date:   2021-01-13 15:01:38 +0300
+image:  '/images/blog/blog22.jpg' 
+tags: [immigration-politics, blog]
+category: 'US Immigration System'
+---
+Conspiracy theories were a driving force behind right-wing violence at the Capitol last week. Here's one conspiracy theory you might not have heard of.
+
+The term 'conspiracy theory' has worked its way into common discourse due mostly to our Snake Oil Salesman in Chief Donald Trump's efforts to convince the public (or maybe just himself) that he really won an election that he so clearly lost.
+
+The violence on Wednesday at the US Capitol was a manifestation of Trump's conspiracy theory, but also the culmination of years of conspiracy theories invented and propagated to assuage mostly white voters of what they see (not entirely falsely) as their declining influence in American culture and politics. To understand the violence, we need to name the ideologies behind it.
+
+One of these conspiracy theories is called 'replacement theory.' Replacement theory argues that due to their low birth rates, whites will eventually be demographically overtaken by people of color and immigrants, who will 'replace' the white population and lead, inevitably, to white oppression. In its most banal forms, replacement theory is a baseless interpretive leap from the very real demographic changes happening in the United States. Its more violent and extreme forms include outlandish claims that the demographic transition is being funded by wealthy Jews like George Soros (the longstanding boogyman for anti-Semites), the Democratic Party (conservatives claim it's about growing their voter base), and a vague assortment of other unspecified 'elites.' There are entirely natural changes in the demography of the United States (as there are in many countries), but replacement theory sensationalizes these changes and attaches to them a notion of inherent racial antagonism and irrational fear of racial diversity.
+
+You may recall that one of the key chants at the Charlottesville white pride event a few years ago was, "You will not replace us" which has also been modified as "Jews will not replace us." This is the 'replace' in 'replacement theory.'
+
+Immigration is at the heart of replacement theory. A key tenet of replacement theory is that 'open border' advocates (of which there are objectively few in any political party or ideological persuasion, much to my own disappointment, frankly) want to use unfettered immigration to speed along the racial replacement process. From this vantage point, any restriction to immigration at all, whether legal or illegal immigration, is interpreted as a way of preventing racial replacement and securing what proponents of replacement theory would describe as white survival but I think is more accurately described as white hegemony.
+
+Replacement theory is not new. It goes back at least to the late 1800s and early 1900s when eugenicists such as Madison Grant and others advocated for racist migration controls and I don't think one needs a mountain of evidence to show how replacement theory was a driving concept in Nazi racial purification laws. But in the past thirty years, replacement theory has become an even more central and violent animating discourse among the anti-immigrant right. You can see it specifically in groups like NumbersUSA, whose entire existence (as made clear by its name) is about regulating all types of immigration in order to slow or prevent racial and cultural change to the benefit of 'Americans' --- and here 'Americans' are predominantly coded as natural-born white Americans of European heritage.
+
+So back to the violence at the Capitol this week. As I watched the insurrection unfold in real-time on Twitter and the news, I could not help but see, in these heinous acts, a sense of racial desperation and anxiety that flows very naturally from anti-immigrant conspiracy theories. Many --- perhaps most --- of the people who attended the Stop the Steal rally believe that they are in the midst of a racial war between, on the one hand, white Americans, and, on the other, racial minorities and immigrants who are part of a conspiratorial demographic conquest (or even *reconquista*) of the country. The fact that a very small fraction of people of color were involved, such as those members of the Proud Boys but also people like Ali Alexander (he identifies as biracial), does not contradict the racial overtones of replacement theory, it merely allows for some convenient (but facile) racial sidestepping.
+
+That's replacement theory. I think once we are familiar with this particular conspiracy theory, we can start to identify it at work in anti-immigrant discourses and see how it links up with patently false claims about illegal voting by immigrants and other conspiracy theories.

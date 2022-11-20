@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
