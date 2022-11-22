@@ -5,6 +5,24 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
+# About Page
+
+I am a Research Assistant Professor in the Newhouse School of Public Communication and a researcher with the [Transactional Records Access Clearinghouse (TRAC)](https://trac.syr.edu/), an institute at Syracuse University that uses Freedom of Information Act requests to study the federal government. 
+
+I graduated with my PhD from The Ohio State University's [Department of Geography](https://geography.osu.edu/) in 2017, where I also previously earned my MA and BA in geography. Prior to joining Syracuse University, I taught at Western Governors University and the University of Michigan-Dearborn. 
+
+## Online At:
+
+[Substack Newsletter](https://austinkocher.substack.com/) <br>
+[Mastodon](https://mastodon.social/@austinkocher) <br>
+[Github](https://github.com/austinkocher) <br>
+[LinkedIn](https://www.linkedin.com/in/austinkocher/) <br>
+[Twitter](https://twitter.com/ackocher) <br>
+[My Faculty Page](https://newhouse.syr.edu/people/austin-kocher) <br>
+[Email me](mailto:ackocher@syr.edu)
+
+# Stock text below this line.
+
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
