@@ -1,4 +1,4 @@
-<table id="inthenews" class="table table-striped dt-responsive nowrap" style="width:100%;">
+<table id="inthenews" class="table table-striped dt-responsive display nowrap" style="width:100%;">
     <thead>
         <tr>
           <th>News Outlet</th>
@@ -7,16 +7,18 @@
             <th>Title</th>
             <th>Type</th>
              <th>Quote</th>   
-            <th>Action</th>    
+            <th>Abstract</th>    
 
         </tr>
       
     </thead>
     <tbody>
-        {% for post in site.news reversed %}
+      {% assign sorted = site.news | sort: 'date' | reverse %}
+
+        {% for post in sorted %}
         <tr>
             <td>{{post.outlet}}</td>
-            <td>{{ post.date }}</td>
+            <td>{{ post.date | date_to_string }}</td>
             <td>{{ post.author }}</td>
             <td>{{post.title | strip_html | truncate: 80}}</td>
             <td>{{post.type}}</td>

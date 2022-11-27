@@ -34,9 +34,12 @@
     document.querySelector(".table").classList.remove('nowrap');
     }
 
-$(document).ready(function() {
-    $('#inthenews').DataTable();
-} );
+  $(document).ready(function() {
+      $('#inthenews').DataTable({
+      order: false,
+       });
+    } );
+
 
     </script>
 </html>
