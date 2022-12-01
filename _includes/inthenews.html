@@ -6,7 +6,8 @@
             <th>Author</th>
             <th>Title</th>
             <th>Type</th>
-             <th>Quote</th>   
+             <th>Quote</th>  
+
             <th>Abstract</th>    
 
         </tr>
@@ -22,7 +23,8 @@
             <td>{{ post.author }}</td>
             <td>{{post.title | strip_html | truncate: 80}}</td>
             <td>{{post.type}}</td>
-          <td><a href="{{post.link}}" target="_blank">Link</a></td>
+          
+          <td>&nbsp&nbsp<a href="{{post.link}}"  target="_blank"> Link </a></td>
           <td>{{post.content}}</td>
         </tr>
        {% endfor %}
