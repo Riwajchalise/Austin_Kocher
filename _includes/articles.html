@@ -1,0 +1,19 @@
+<table id="article" class="table table-striped dt-responsive display nowrap" style="width:100%;">
+    <thead>
+        <tr>
+          <th>Articles</th>
+          <td>Type</td>
+        </tr>   
+    </thead>
+    <tbody>
+
+        {% for post in site.articles %}
+        <tr>
+          <td>{{post.content}}</td>
+          <td>{{post.type}}</td>
+
+        </tr>
+       {% endfor %}
+      
+    </tbody>
+</table>

@@ -28,6 +28,9 @@ collections:
   news:
     output: true
     permalink: /news/:year/:month/:day/:title/
+  articles:
+    output: true
+    permalink: /articles/:title/
   projects:
     output: true
     permalink: /project/:slug
