@@ -18,6 +18,8 @@ menu__settings:
       url: '/about/'
     - title: 'In The News'
       url: '/news/'
+    - title: 'Articles'
+      url: '/articles/'
     # - title: 'Publications'
     #   url: '/publication/'
     # - title: 'Protfolio'
