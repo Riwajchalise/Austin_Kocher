@@ -1,0 +1,12 @@
+---
+layout: null
+---
+[
+  {% for post in site.articles %}
+    {
+      "type"    : "{{ post.type | escape }}",
+      "Content"    : "{{ post.content | escape }}",
+      
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
